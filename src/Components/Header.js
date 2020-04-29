@@ -1,6 +1,9 @@
 import React, {Component} from 'react'
-import $ from './Jquery'
-import scrollToFixed from 'scrolltofixed'
+import nav from '../img/nav.png';
+import $ from 'jquery'
+window.jQuery = window.$ = $;
+require('scrolltofixed');
+
 
 class Header extends Component {
     componentDidMount() {
@@ -9,8 +12,7 @@ class Header extends Component {
     render() {
         return (
             <div className="header">
-            <span className="title">Header</span>
-            <span> - This header will dock to the top of the window.</span>
+                 <img src={nav} className="nav" alt="nav" />
             </div>
         ); 
     }
