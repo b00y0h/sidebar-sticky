@@ -84,9 +84,10 @@ body ul {
   color: red;
 }
 .contents {
-  width: 150px;
+  width: 158px;
   margin: 10px;
   font-size: 80%;
+  text-align: left;
 }
 
 /**
