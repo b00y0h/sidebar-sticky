@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sidebar-sticky/static/css/main.d9b2c208.chunk.css",
+    "main.css": "/sidebar-sticky/static/css/main.9d27b7d1.chunk.css",
     "main.js": "/sidebar-sticky/static/js/main.76d56c12.chunk.js",
     "main.js.map": "/sidebar-sticky/static/js/main.76d56c12.chunk.js.map",
     "runtime-main.js": "/sidebar-sticky/static/js/runtime-main.3321271f.js",
@@ -8,9 +8,9 @@
     "static/js/2.7d598044.chunk.js": "/sidebar-sticky/static/js/2.7d598044.chunk.js",
     "static/js/2.7d598044.chunk.js.map": "/sidebar-sticky/static/js/2.7d598044.chunk.js.map",
     "index.html": "/sidebar-sticky/index.html",
-    "precache-manifest.89dc5c18e9fb6ca0c2e0408224a56499.js": "/sidebar-sticky/precache-manifest.89dc5c18e9fb6ca0c2e0408224a56499.js",
+    "precache-manifest.a223bee591d1fa8fbb403c20776c82a7.js": "/sidebar-sticky/precache-manifest.a223bee591d1fa8fbb403c20776c82a7.js",
     "service-worker.js": "/sidebar-sticky/service-worker.js",
-    "static/css/main.d9b2c208.chunk.css.map": "/sidebar-sticky/static/css/main.d9b2c208.chunk.css.map",
+    "static/css/main.9d27b7d1.chunk.css.map": "/sidebar-sticky/static/css/main.9d27b7d1.chunk.css.map",
     "static/js/2.7d598044.chunk.js.LICENSE.txt": "/sidebar-sticky/static/js/2.7d598044.chunk.js.LICENSE.txt",
     "static/media/nav.png": "/sidebar-sticky/static/media/nav.5f7b29c3.png",
     "static/media/rightnav.png": "/sidebar-sticky/static/media/rightnav.d868683f.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.3321271f.js",
     "static/js/2.7d598044.chunk.js",
-    "static/css/main.d9b2c208.chunk.css",
+    "static/css/main.9d27b7d1.chunk.css",
     "static/js/main.76d56c12.chunk.js"
   ]
 }
