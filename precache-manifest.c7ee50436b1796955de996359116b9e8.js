@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99cf72bd4cbf75b3f4fe1a83c6e3d1aa",
+    "revision": "d27d2ec20e9421e05eede7a83a2b8670",
     "url": "/sidebar-sticky/index.html"
   },
   {
-    "revision": "3520131ab2bdefc1579a",
+    "revision": "aa2fe923eee0a9caeed0",
     "url": "/sidebar-sticky/static/css/main.a152e327.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sidebar-sticky/static/js/2.7d598044.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3520131ab2bdefc1579a",
-    "url": "/sidebar-sticky/static/js/main.de86dca4.chunk.js"
+    "revision": "aa2fe923eee0a9caeed0",
+    "url": "/sidebar-sticky/static/js/main.780cedb6.chunk.js"
   },
   {
     "revision": "37613888598a5a3a684e",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f7b29c308b1d65e047aff49fb09ba99",
     "url": "/sidebar-sticky/static/media/nav.5f7b29c3.png"
-  },
-  {
-    "revision": "d868683fc3e153efab63c37e7b5dc3aa",
-    "url": "/sidebar-sticky/static/media/rightnav.d868683f.png"
   },
   {
     "revision": "51b282d6e22c3a306248994666f2ae23",
